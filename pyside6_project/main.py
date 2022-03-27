@@ -1,3 +1,7 @@
+import sys
+
+from PySide6.QtWidgets import QApplication
+from work.window import Window
 # This is a sample Python script.
 
 # Press ⌃R to execute it or replace it with your code.
@@ -13,4 +17,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+    app = QApplication(sys.argv)
+    window: Window = Window()
+    sys.exit(app.exec())
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
