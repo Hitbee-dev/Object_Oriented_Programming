@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b585c72-8f11-4264-a59c-0eab552e72a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pyside6_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/browser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/browser_skeleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/browser_tabs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/arrow-000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/arrow-180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/arrow-circle-315.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/bomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/bug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/cactus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/cake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/clock-select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/cross-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/cup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/disk--arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/disk--pencil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/flag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/fruit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/hamburger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/ice-cream-sprinkles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/lifebuoy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/lock-nossl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/lock-ssl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/ma-icon-128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/ma-icon-256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/ma-icon-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/mushroom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/printer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/question.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/smiley-lol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/smiley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/icons/ui-tab--plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/app/minesweeper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/MainWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/bug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/creating_a_window_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/creating_a_window_1b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/creating_a_window_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/creating_a_window_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/creating_a_window_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/creating_a_window_end.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialog_bad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialog_platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_2a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_2b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/dialogs_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/events_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/events_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/events_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/events_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_2a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_2b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_9b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_colorwidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/layout_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/mainwindow.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/otje.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/otje2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_and_slots_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_and_slots_1b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_and_slots_1c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_and_slots_1d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_and_slots_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_and_slots_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_and_slots_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_slots_and_events_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/signals_slots_and_events_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_end.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/toolbars_and_menus_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_2a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_2b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/widgets_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_1b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_4b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_6b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_6c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/basic/windows_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/_snippet_alignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/draw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/drawpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/ellipse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/line.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/line_with_pen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/paint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/paint_line.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/paint_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/paint_with_fill.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/point_with_pen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/points.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/points_color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/rect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/rect_with_brush.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/roundrect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/spray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/spraypaint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/stub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/bitmap/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/bad_example_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/bad_example_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/dummy_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qprocess_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_generic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_generic_callback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_io_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_manager_stop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_pause.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_process_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_process_parser_elapsed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_process_result.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_progress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_progress_many.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_progress_many_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/concurrent/qrunner_stop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/example.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/example_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/example_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/example_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/example_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/example_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/example_working.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/cpp/imports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/powerbar_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/custom-widgets/stub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/_snippet_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/_snippet_relational.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/chinook.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_filterproxy_widget_mapper_controls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_querymodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_querymodel_parameter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_querymodel_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_relationalmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_relationalmodel_delegate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_tablemodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_tablemodel_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_tablemodel_filter_clean.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_tablemodel_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_tablemodel_sortname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_tablemodel_titles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/tableview_tablemodel_titlesname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/widget_mapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/databases/widget_mapper_controls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/MainWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/animal-penguin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/compiled_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/example_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/example_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/example_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/mainwindow.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/qresource.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/designer/resources.qrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/animal-penguin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/arguments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/arguments_open.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/book-open-text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/routing_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/routing_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/routing_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/signals_custom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/signals_extra_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/signals_extra_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/signals_extra_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/signals_extra_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/signals_forward.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/systray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/systray_color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/further/systray_window.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/MainWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/_snippet_qabstracttablemodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/amserfoort.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/delegate_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/mainwindow.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/otje.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_decorationrole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_delegate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_format_9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tableview_pandas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_complete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/model-views/todo_skeleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/_snippet_pyqtgraph_lines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/_snippet_pyqtgraph_symbols.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/matplotlib_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/matplotlib_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/matplotlib_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/matplotlib_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/matplotlib_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/matplotlib_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/pyqtgraph_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/pyqtgraph_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/pyqtgraph_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/pyqtgraph_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/pyqtgraph_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/plotting/pyqtgraph_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/_snippet_palette.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/fusion_widgets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/linux_icons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/modern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/palette_dark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/palette_dark_widgets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/palette_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/puzzle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/pyside6-source/themes/qss_tester.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26yzaSRAOinzTPWaRZDj4VpKk7K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyside6_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b585c72-8f11-4264-a59c-0eab552e72a8" name="Changes" comment="" />
+      <created>1648410676990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648410676990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
