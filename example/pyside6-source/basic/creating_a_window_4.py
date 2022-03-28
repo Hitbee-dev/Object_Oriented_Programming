@@ -16,6 +16,8 @@ class MainWindow(QMainWindow):
         # Set the central widget of the Window.
         self.setCentralWidget(button)  # <3>
 
+        # self.setFixedSize(width, height)를 하게 되면 창의 크기가 고정되며 수정이 불가능하다.
+        # self.setFixedSize(400, 500)
 
 app = QApplication(sys.argv)
 
