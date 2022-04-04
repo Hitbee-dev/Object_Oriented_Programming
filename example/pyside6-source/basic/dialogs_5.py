@@ -16,7 +16,7 @@ class MainWindow(QMainWindow):
     # tag::button_clicked[]
     def button_clicked(self, s):
 
-        button = QMessageBox.question(self, "Question dialog", "The longer message")
+        button = QMessageBox.information(self, "Question dialog", "The longer message")
 
         if button == QMessageBox.Yes:
             print("Yes!")
