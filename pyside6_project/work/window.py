@@ -2,9 +2,8 @@ from PySide6.QtWidgets import *
 from work.view.tool import Tool
 
 class Window(QMainWindow):
-
     tool: Tool  # 툴바 입니다.
-
+    camera: Camera
     def __init__(self):
         super(Window, self).__init__()
 
