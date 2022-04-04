@@ -5,7 +5,7 @@
 |__윤영선교수님__|__*객체지향프로그래밍*__|
 ---
 
-- __*Used Language*__: `Python`
+- __*Used Language*__: `Python 3.8.9ver`
 - __*Used Framwork*__: `Qt`
 - __*Used Tool*__: `Pyside6`
 ---
