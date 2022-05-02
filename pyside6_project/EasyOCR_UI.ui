@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>640</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>621</width>
+      <height>411</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="homeLayout">
+     <item>
+      <layout class="QHBoxLayout" name="init_Layout">
+       <item>
+        <layout class="QVBoxLayout" name="iu_Layout">
+         <item>
+          <widget class="QLabel" name="iu_Label">
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="pushButton">
+           <property name="text">
+            <string extracomment="이미지 불러오기">1. Image Upload</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="sc_Layout">
+         <item>
+          <widget class="QLabel" name="sc_Label">
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="sc_Button">
+           <property name="text">
+            <string>2. Image Slope correction</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="recognition_Layout">
+       <item>
+        <layout class="QVBoxLayout" name="ir_Layout">
+         <item>
+          <widget class="QLabel" name="ir_Label">
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="ir_Button">
+           <property name="text">
+            <string>3. Image Recognition</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="isr_Layout">
+         <item>
+          <widget class="QLabel" name="isr_Label">
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="isr_Button">
+           <property name="text">
+            <string>4. Image Segmentation Recognition</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>640</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menureset">
+    <property name="title">
+     <string>Reset</string>
+    </property>
+    <addaction name="actionreset"/>
+   </widget>
+   <addaction name="menureset"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionreset">
+   <property name="text">
+    <string>Reset</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
