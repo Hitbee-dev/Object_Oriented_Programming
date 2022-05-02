@@ -51,7 +51,7 @@ class Ui_MainWindow(object):
 
         self.sc_Button = QPushButton(self.verticalLayoutWidget)
         self.sc_Button.setObjectName(u"sc_Button")
-
+         
         self.sc_Layout.addWidget(self.sc_Button)
 
 
