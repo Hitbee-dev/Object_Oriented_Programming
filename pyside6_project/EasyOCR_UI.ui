@@ -6,25 +6,44 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>640</width>
-    <height>480</height>
+    <width>641</width>
+    <height>1109</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QWidget" name="verticalLayoutWidget">
+   <widget class="QScrollArea" name="scrollArea">
     <property name="geometry">
      <rect>
       <x>10</x>
       <y>10</y>
-      <width>621</width>
-      <height>411</height>
+      <width>619</width>
+      <height>641</height>
      </rect>
     </property>
-    <layout class="QVBoxLayout" name="homeLayout">
-     <item>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="scrollAreaWidgetContents">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>617</width>
+       <height>639</height>
+      </rect>
+     </property>
+     <widget class="QWidget" name="">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>601</width>
+        <height>61</height>
+       </rect>
+      </property>
       <layout class="QHBoxLayout" name="init_Layout">
        <item>
         <layout class="QVBoxLayout" name="iu_Layout">
@@ -63,8 +82,16 @@
         </layout>
        </item>
       </layout>
-     </item>
-     <item>
+     </widget>
+     <widget class="QWidget" name="">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>80</y>
+        <width>601</width>
+        <height>61</height>
+       </rect>
+      </property>
       <layout class="QHBoxLayout" name="recognition_Layout">
        <item>
         <layout class="QVBoxLayout" name="ir_Layout">
@@ -103,8 +130,56 @@
         </layout>
        </item>
       </layout>
-     </item>
-    </layout>
+     </widget>
+     <widget class="QWidget" name="layoutWidget">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>680</y>
+        <width>601</width>
+        <height>61</height>
+       </rect>
+      </property>
+      <layout class="QHBoxLayout" name="init_Layout_6">
+       <item>
+        <layout class="QVBoxLayout" name="iu_Layout_6">
+         <item>
+          <widget class="QLabel" name="iu_Label_6">
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="pushButton_9">
+           <property name="text">
+            <string extracomment="이미지 불러오기">1. Image Upload</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="sc_Layout_6">
+         <item>
+          <widget class="QLabel" name="sc_Label_6">
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="sc_Button_6">
+           <property name="text">
+            <string>2. Image Slope correction</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+    </widget>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -112,7 +187,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>640</width>
+     <width>641</width>
      <height>24</height>
     </rect>
    </property>
