@@ -10,4 +10,4 @@ class MainWindow(QMainWindow, Ui_MainWindow):
 app = QApplication()
 window = MainWindow()
 window.show()
-app.exec_()
+app.exec()
